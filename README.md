@@ -1,3 +1,6 @@
 # hello-world
 My hello world repository
-First github change
+Mucking around with clones and branches
+Test Branch 1
+Clone 1
+Merge Test branch into Master
