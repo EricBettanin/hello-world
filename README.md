@@ -1,5 +1,5 @@
 # hello-world
-My hello world repository
+My public hello world repository
 Mucking around with clones and branches
 Test Branch 1
 Clone 1
